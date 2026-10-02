@@ -1,0 +1,4 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+# Uncomment the line below if you switch DATABASES to MySQL in settings.py
+# mysqlclient>=2.2
